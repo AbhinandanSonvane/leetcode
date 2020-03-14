@@ -1,8 +1,6 @@
-package com.as.leetcode.problem;
+package com.as.leetcode.strings;
 
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
 import java.util.Set;
 
 public class LongestSubstringWithoutRepeatingCharacters {
