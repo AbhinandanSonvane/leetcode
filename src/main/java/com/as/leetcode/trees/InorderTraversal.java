@@ -70,13 +70,3 @@ public class InorderTraversal {
     System.out.println(inorderTraversalIterative(n1));
   }
 }
-
-class TreeNode {
-  int val;
-  TreeNode left;
-  TreeNode right;
-
-  TreeNode(int x) {
-    val = x;
-  }
-}
